@@ -3,10 +3,10 @@
  * Ganti ID di bawah ini dengan ID Spreadsheet dan Folder Google Drive Anda.
  */
 const CONFIG = {
-  SHEET_ID: "19j5YXqklyFKY_a02AtD9B6gmX_lILhHpGBU7Q1_JvLs", // ID Spreadsheet Database
+  SHEET_ID: "1j4mN9xKrnYGeuBbvLc7Lv13l4YD-h_56hYFvupA8IzE", // ID Spreadsheet Database
   SHEET_NAME: "Sheet1",                                     // Nama Sheet
-  PARENT_FOLDER_ID: "1LEWMv8qSuyew-Q90lqIWzkW2Au6MlY5h",    // ID Folder Induk Siswa
-  LEDGER_FOLDER_ID: "1xx2WrJDzo6hWCQp64UUT21xiecicKZVw"     // ID Folder Ledger
+  PARENT_FOLDER_ID: "1s2kRdgZy-31EWom7pl63cAeLW32sSaG1",    // ID Folder Induk Siswa
+  LEDGER_FOLDER_ID: "1Zj_cmTXqPZ3SQAHbuD-kSyQ47PgrDct1"     // ID Folder Ledger
 };
 
 // ==========================================
